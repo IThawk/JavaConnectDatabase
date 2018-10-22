@@ -67,6 +67,12 @@
             <artifactId>fastjson</artifactId>
             <version>1.2.15</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.clojars.prepor/vertica-jdbc -->
+        <dependency>
+            <groupId>org.clojars.prepor</groupId>
+            <artifactId>vertica-jdbc</artifactId>
+            <version>7.0.1-0</version>
+        </dependency>
 
     </dependencies>
 
